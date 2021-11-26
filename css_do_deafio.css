@@ -1,0 +1,19 @@
+#logo{
+    width: 10%;
+    margin-right: auto;
+    margin-left: 35%;
+    margin-top: 15%;
+    
+}
+
+.formatacao{
+
+    border-color: lightseagreen;
+    background-color: lightcyan;
+    display: inline-block;
+    text-align: center;
+}
+
+input{
+    display: block;
+}
